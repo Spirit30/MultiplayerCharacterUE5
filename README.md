@@ -1,0 +1,1 @@
+Multiplayer Character implementation featuring a Custom Movement Mode (inspired by astronaut flight mechanics). Developed using Unreal Engine 5. This project showcases advanced multiplayer functionality, Properties Replication and RPC.
